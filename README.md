@@ -16,3 +16,4 @@ This TL-Verilog code was implemented on Makerchip, where it defines a simple cal
          $out[31:0] = $op[1:0] == 0 ? $sum : $op[1:0] == 1 ? $diff : $op[1:0] == 2 ? $prod : $quot;
 
 
+//image1 pasted
